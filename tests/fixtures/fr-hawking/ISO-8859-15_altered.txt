@@ -1,0 +1,76 @@
+Remerciements
+
+J'ai décidé d'écrire un livre sur l'Espace et le Temps à l'intention du
+grand public après les conférences L½b que j'ai données à Harvard en
+1982. Il existait déjà un nombre considérable de livres sur les débuts
+de l'Univers et les trous noirs, d'excellents, comme Les Trois Premières
+Minutes de l'Univers, de Steven Weinberg, et de très mauvais, que je ne
+citerai pas. Je trouvais cependant qu'aucun d'entre eux ne répondait
+vraiment aux questions qui m'avaient conduit à faire de la recherche en
+cosmologie et en théorie des quanta : d'où vient l'Univers ? Comment et
+pourquoi a-t-il commencé ? Connaîtra-t-il une fin, et si oui, comment ?
+Questions qui intéressent tout le monde. Mais la science moderne est
+devenue si technique que seul un tout petit nombre de spécialistes peut
+maîtriser les mathématiques qui sont au c½ur tic la description. Et
+pourtant, les idées fondamentales sur l'origine et le destin de
+l'Univers peuvent prendre une forme non mathématique, accessible à une
+personne dépourvue de formation scientifique. C'est ce que j'ai essayé
+de faire ici et le lecteur jugera si j'ai réussi. On m'a dit que chaque
+équation incluse dans le livre en diminuerait les ventes de moitié. J'ai
+donc décidé qu'il n'y en aurait aucune. À la fin, toutefois, j'en ai mis
+une, la fameuse équation d'Einstein : "E = mc²". J'espère que cela
+n'effrayera pas la moitié de mes lecteurs potentiels. J'ai eu la
+malchance d'être atteint d'une maladie neuro-motrice (maladie de Lou
+Gehrig), mais presque partout ailleurs, la chance m'a souri. L'aide et
+le réconfort que j'ai reçus de ma femme Jane et de mes enfants Robert,
+Lucy et Timmy m'ont permis de mener une vie à peu près normale et
+d'avoir une carrière remplie de succès. Autre chance, mon choix en
+faveur de la physique théorique, parce que tout est dans la tête. Ainsi,
+mon incapacité n'aura-t-elle pas été un handicap sérieux. Mes collègues
+scientifiques m'ont tous beaucoup aidé. Dans la première phase
+« classique » de ma carrière, mes principaux associés et collaborateurs
+furent Roger Penrose, Robert Geroch, Brandon Carter, et George Ellis. Je
+leur suis reconnaissant de leur aide et du travail que nous avons fait
+ensemble. Cette époque trouva son couronnement dans le livre "The Large
+Scale Structure of Space-time (La Structure à grande échelle de
+l'espace-temps)" que Ellis et moi avons écrit en 1973. Je ne suggérerai
+pas aux lecteurs du présent livre de consulter ce travail pour plus
+ample information : il est hautement technique et tout à fait illisible.
+J'espère que j'ai appris depuis lors à écrire d'une manière plus facile
+à comprendre. Dans la deuxième phase « quantique » de mon travail, à
+partir de 1974, mes principaux collaborateurs ont été Gary Gibbons, Don
+Page, et Jim Hartle. Je leur dois beaucoup, ainsi qu'à mes étudiants en
+recherche, qui m'ont beaucoup aidé, à la fois aux sens physique et
+théorique du mot. Demeurer au niveau de mes étudiants m'a grandement
+stimulé et m'a, j'espère, empêché de m'enfoncer dans l'ornière. J'ai été
+grandement aidé pour ce livre par Brian Whilt, l'un de mes étudiants.
+J'ai attrapé une pneumonie en 1985, après en avoir écrit une première
+version. J'ai dû subir une trachéotomie qui m'a enlevé la capacité
+locutoire et m'a rendu presque impropre à communiquer. Je pensais que je
+serais incapable de le finir. Non seulement Brian m'a aidé à le réviser,
+mais il m'a aussi fait utiliser un programme de communication nommé
+Living Center que m'a offert Walt Woltosz, de Words Plus Inc. de
+Sunnyvale, Californie. Grâce à cet appareil, je peux à la fois écrire
+des livres et des articles, et parler aux gens avec un synthétiseur
+offert par Speach Plus, également de Sunnyvale, Californie. Le
+synthétiseur et un petit ordinateur individuel ont été montés sur ma
+chaise roulante par David Mason. Ce système a fait toute la différence :
+en fait, je peux communiquer maintenant beaucoup mieux qu'avant la perte
+de ma voix. Un grand nombre de gens, qui ont eu connaissance des
+versions préliminaires, m'ont fait des suggestions pour améliorer ce
+livre. En particulier, Peter Guzzardi, mon éditeur de Bantam Books, m'a
+envoyé des pages et des pages de commentaires et de questions concernant
+tout ce qu'il croyait que je n'avais pas expliqué proprement. J'étais
+plutôt irrité, je dois l'admettre, quand j'ai reçu la grande liste de
+changements qu'il proposait, mais il avait tout à fait raison. Je suis
+persuadé que le livre a bénéficié de son insistance à ce que je revois
+les choses de plus près. Je suis très reconnaissant à mes assistants,
+Colin Williams, David Thomas and Raymond Laflamme ; mes secrétaires,
+Judy Fella, Ann Ralph, Cheryl Billington, et Sue Masey ; et à mon équipe
+d'infirmières. Rien de tout cela n'aurait été possible sans l'aide
+apportée à ma recherche et à mes dépenses médicales fournie par le
+Gonville et Caius College, Science and Engineering Research Council, et
+par les Fondations Leverhulme, McArthur, Nuffield et Ralph Smith. Je
+leur exprime toute ma reconnaissance.
+
+Stephen Hawking, 20 octobre 1987

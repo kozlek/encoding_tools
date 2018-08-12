@@ -1,0 +1,2 @@
+class GuessEncodingFailedException(Exception):
+    pass

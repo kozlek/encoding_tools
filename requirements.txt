@@ -1,0 +1,7 @@
+chardet==3.0.4
+Unidecode==1.0.22
+
+# dev
+pytest==3.7.1
+pytest-sugar==0.9.1
+pytest-cov==2.5.1

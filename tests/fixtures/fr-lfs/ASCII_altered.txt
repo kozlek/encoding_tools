@@ -1,0 +1,59 @@
+Avant-propos
+
+Mon parcours pour apprendre et mieux comprendre Linux a debute il y a
+plus d'une decennie, soit en 1998. Je venais d'installer ma premiere
+distribution Linux et je fus rapidement intrigue par l'ensemble du
+concept et la philosophie sous-jacente de Linux. Il y a toujours bien
+des manieres d'accomplir une seule tache. Il en est de meme pour les
+distributions Linux. Un grand nombre existent depuis des annees.
+Certaines existent encore, d'autres se sont transformees en quelque
+chose d'autre, tandis que d'autres encore ont ete releguees a nos
+souvenirs. Elles font toutes les choses differemment pour s'adapter au
+besoin de leur public. Vu qu'il existait enormement de manieres
+differentes d'atteindre le meme objectif, je me rendis compte que je
+n'etais plus oblige de me limiter a une organisation en particulier.
+Avant de decouvrir Linux, on supportait simplement les problemes dans
+d'autres systemes d'exploitation puisqu'on n'avait pas le choix. Cela
+valait ce que ca valait, que cela nous plaise ou non. Avec Linux, le
+concept du choix a commence a emerger. Si vous n'aimiez pas quelque
+chose, vous etiez libres, voire encourages a le modifier. J'ai essaye un
+certain nombre de distributions et n'ai pas pu me decider pour l'une
+d'entre elles. C'etaient de bons systemes, chacun a sa facon. Ce n'etait
+plus une question de bonne ou mauvaise qualite. C'etait devenu une
+question de gout personnel. Avec tout ce choix disponible, il devenait
+clair qu'il n'y aurait pas un seul systeme qui serait parfait pour moi.
+Donc je resolus de creer mon propre systeme Linux qui correspondrait
+totalement a mes preferences personnelles. Pour que ce soit vraiment mon
+propre systeme je resolus de compiler tout a partir du code source au
+lieu d'utiliser des paquets de binaires pre-compiles. Ce systeme Linux <<
+parfait >> aurait les forces de plusieurs systemes sans leurs faiblesses
+ressenties. De prime abord, l'idee etait decourageante. Je restais
+sceptique a la pensee de pouvoir construire un tel systeme. Apres avoir
+rencontre quelques problemes comme des dependances circulaires et des
+erreurs a la compilation, j'ai finalement construit un systeme Linux
+entierement personnalise. Il etait totalement operationnel et
+parfaitement utilisable comme n'importe quel autre systeme Linux du
+moment. Mais c'etait ma propre creation. C'etait tres satisfaisant
+d'avoir concocte un tel systeme moi-meme. Creer chaque morceau de
+logiciel moi-meme aurait ete la seule option encore meilleure. C'etait
+la meilleure alternative. Alors que je partageais mes objectifs et mes
+experiences avec d'autres membres de la communaute Linux, il devint
+manifeste qu'il y avait un interet soutenu concernant ces idees. Il
+devint rapidement clair que de tels systemes Linux personnalises
+satisfaisaient non seulement les exigences des utilisateurs mais
+servaient aussi d'une opportunite ideale d'apprentissage pour les
+programmeurs et les administrateurs systemes, afin d'ameliorer leurs
+competences (existantes) sous Linux. De cet interet est ne le projet
+Linux From Scratch. Ce livre Linux From Scratch est le coeur de ce
+projet. Il fournit la base et les instructions qui vous sont necessaires
+pour concevoir et construire votre propre systeme. Bien que ce livre
+fournisse un modele qui aboutira a un systeme qui fonctionne
+correctement, vous etes libres de modifier les instructions pour les
+adapter a vos envies, ce qui fait partie des finalites importantes du
+projet apres tout. Vous gardez le controle ; nous vous donnons
+simplement un coup de main pour debuter votre propre parcours. J'espere
+sincerement que vous passerez un bon moment en travaillant sur votre
+propre systeme Linux From Scratch et que vous apprecierez les nombreux
+benefices qu'apporte un systeme qui est reellement le votre.
+
+Gerard Beekmans - gerard@linuxfromscratch.org
