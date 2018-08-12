@@ -1,12 +1,16 @@
 image: python:3.7-alpine
+
+variables:
+  PACKAGE_NAME: encoding_tools
+
 stages:
   - test
-  - package
+  - build
   - release
 
-test_3.6:
+python-3.6:
   stage: test
-  image: python:3.6
+  image: python:3.6-alpine
   before_script:
     - pip install -r requirements.txt
   script:
@@ -14,7 +18,7 @@ test_3.6:
   except:
     - schedules
 
-test_3.7:
+python-3.7:
   stage: test
   image: python:3.7-alpine
   before_script:
@@ -23,3 +27,43 @@ test_3.7:
     - pytest
   except:
     - schedules
+
+build-package:
+  stage: build
+  image: python:3.7-alpine
+  variables:
+    TWINE_REPOSITORY_URL: $TEST_PYPI_REPO_URL
+    TWINE_REPOSITORY: $TEST_PYPI_REPO_URL
+    TWINE_USERNAME: $TEST_PYPI_USERNAME
+    TWINE_PASSWORD: $TEST_PYPI_PASSWORD
+  before_script:
+    - pip install -r requirements.txt
+    - pip install twine
+  script:
+    - python setup.py sdist bdist_wheel
+    - twine upload dist/*
+
+    - pip install $PACKAGE_NAME --index-url https://test.pypi.org/simple/
+  only:
+    - tags
+  except:
+  - schedules
+
+upload-to-pypi:
+  stage: release
+  image: python:3.7-alpine
+  variables:
+    TWINE_REPOSITORY_URL: $PYPI_REPO_URL
+    TWINE_REPOSITORY: $PYPI_REPO_URL
+    TWINE_USERNAME: $PYPI_USERNAME
+    TWINE_PASSWORD: $PYPI_PASSWORD
+  before_script:
+    - pip install -r requirements.txt
+    - pip install twine
+  script:
+    - python setup.py sdist bdist_wheel
+    - twine upload dist/*
+  only:
+    - tags
+  except:
+  - schedules
