@@ -5,13 +5,13 @@ with open("README.md", "r") as f:
 
 setup(
     name='encoding_tools',
-    version="0.0.2",
+    version="0.0.3",
     description="A package to deal with encoding.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Thomas Berdy',
     author_email='thomas.berdy@outlook.com',
-    url='https://gitlab.kozlek.net/open-source/encoding_tools',
+    url='https://github.com/Tberdy/encoding_tools',
     packages=[
         'encoding_tools'
     ],

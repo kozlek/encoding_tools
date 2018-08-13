@@ -1,7 +1,7 @@
 # Encoding Tools
 
-[![pipeline status](https://gitlab.kozlek.net/open-source/encoding_tools/badges/dev/pipeline.svg)](https://gitlab.seelk.io/seelk/mr-satan/commits/dev)
-[![coverage report](https://gitlab.kozlek.net/open-source/encoding_tools/badges/dev/coverage.svg)](https://gitlab.seelk.io/seelk/mr-satan/commits/dev)
+[![pipeline status](https://gitlab.kozlek.net/open-source/encoding_tools/badges/dev/pipeline.svg)](https://github.com/Tberdy/encoding_tools)
+[![coverage report](https://gitlab.kozlek.net/open-source/encoding_tools/badges/dev/coverage.svg)](https://github.com/Tberdy/encoding_tools)
 [![PyPI - Python Version](https://img.shields.io/badge/Python-3.6%2C%203.7-blue.svg)](https://docs.python.org/3/whatsnew/3.7.html)
 
 
