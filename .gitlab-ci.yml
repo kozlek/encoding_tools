@@ -49,6 +49,23 @@ build-package:
   except:
   - schedules
 
+mirror-to-github:
+  stage: release
+  image: debian:stretch-slim
+  variables:
+    GIT_SSH_COMMAND: ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no
+  before_script:
+    - apt-get update -y && apt-get install openssh-client git -y
+    - mkdir -p ~/.ssh
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$GITHUB_SSH_KEY")
+    - git remote add github $GITHUB_REPO_LINK || true
+  script:
+    - git push -f github master
+    - git push -f github master --tags
+  except:
+  - schedules
+
 upload-to-pypi:
   stage: release
   image: python:3.7-alpine
